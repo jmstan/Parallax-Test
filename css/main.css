@@ -151,7 +151,7 @@ main {
 }
 /* Slide 1 */
 #slide-1 .bcg {
-background-image:url('{{site.url}}assets/bcg_slide-1.jpg');
+background-image:url('assets/bcg_slide-1.jpg');
 height:1000px;
 
 }
@@ -161,7 +161,7 @@ height:1000px;
 
 /* Slide 3 */
 #slide-3 .bcg {
-background-image:url('{{site.url}}assets/bcg_slide-3.jpg');
+background-image:url('assets/bcg_slide-3.jpg');
 height:1000px;
 }
 
@@ -172,18 +172,18 @@ height:1000px;
 .curtainContainer .copy {position: absolute; bottom: 30%; left: 0; width: 100%; text-align: center;}
 
 #slide-4 .bcg {
-background-image:url('{{site.url}}assets/bcg_slide-4.jpg');
+background-image:url('assets/bcg_slide-4.jpg');
 height:1000px;
 }
 
 /* Slide 5 */
 #slide-5 {position: relative;}
 #slide-5 .bcg {
-background-image:url('{{site.url}}assets/bcg_slide-5.jpg');
+background-image:url('assets/bcg_slide-5.jpg');
 height:1000px;
 }
 #slide-5 .bcg2 {
-    background-image:url('{{site.url}}assets/bcg_slide-5b.jpg');
+    background-image:url('assets/bcg_slide-5b.jpg');
     position: fixed; 
     bottom: 0; 
     left: 0; 

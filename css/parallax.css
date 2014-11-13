@@ -65,7 +65,7 @@ main {
 .curtainContainer .copy {position: absolute; bottom: 30%; left: 0; width: 100%; text-align: center;}
 
 #slide-4 .bcg {
-background-image:url('{{site.url}}assets/bcg_slide-4.jpg');
+background-image:url('assets/bcg_slide-4.jpg');
 }
 
 .hsContainer {
