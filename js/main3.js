@@ -29,5 +29,8 @@ $(window).load(function() {
 	
 	// fade in page
 	init();
+
+	
+});
 	
 });
